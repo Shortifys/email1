@@ -10,7 +10,7 @@ body{
     display: felx;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(rgb(184, 232, 255), #6699cc);
+    background: linear-gradient(rgb(228, 183, 255), #8766CC);
     min-height: 84.5vh;
 }
 .container
